@@ -1,7 +1,7 @@
 Projeto de Ecommerce
 Este projeto é um site de e-commerce desenvolvido como parte do curso no Senai, focando nas tecnologias front-end e na criação de uma interface de usuário responsiva e dinâmica.
 
-Funcionalidades Principais
+🚀 Funcionalidades Principais
 Página Inicial (Home): Landing page com um carrossel de banners promocionais e links para as principais seções do site.
 
 Navegação: Menu de navegação responsivo com categorias de produtos (Móveis, Livros, etc.) e links para outras páginas essenciais (Carrinho, Login, etc.).
@@ -12,7 +12,7 @@ Design Responsivo: O site se adapta a diferentes tamanhos de tela (desktop, tabl
 
 Preloader: Uma animação de carregamento (loader) para uma experiência de usuário mais fluida.
 
-Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas
 HTML: Para a estrutura das páginas.
 
 CSS: Para a estilização e design.
